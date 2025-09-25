@@ -1,6 +1,7 @@
 # html-css-js-projects
 
 ### html-lessons
+- [heading-element](https://github.com/devliwa/heading-element)
 
 ### capstone-project-1-online-resume
 
