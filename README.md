@@ -4,6 +4,7 @@
 - [heading-element](https://github.com/devliwa/heading-element)
 - [paragraph-element](https://github.com/devliwa/paragraph-element)
 - [void-elements](https://github.com/devliwa/void-elements)
+- [movie-ranking-project](https://github.com/devliwa/movie-ranking-project)
 
 ### capstone-project-1-online-resume
 
