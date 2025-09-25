@@ -19,6 +19,7 @@
 - [adding-css](https://github.com/devliwa/adding-css)
 - [css-selectors](https://github.com/devliwa/css-selectors)
 - [color-vocab-project](https://github.com/devliwa/color-vocab-project)
+- [css-colors](https://github.com/devliwa/css-colors)
 ### flexbox-lessons
 
 ### grid-lessons
