@@ -16,7 +16,7 @@
 ### capstone-project-1-online-resume
 
 ### css-lessons
-
+- [adding-css](https://github.com/devliwa/adding-css)
 ### flexbox-lessons
 
 ### grid-lessons
