@@ -23,6 +23,7 @@
 - [font-properties](https://github.com/devliwa/font-properties)
 - [inspect-css](https://appbrewery.github.io/css-inspection/)
 - [css-box-model](https://github.com/devliwa/css-box-model)
+- [motivation-meme-project](https://github.com/devliwa/motivation-meme-project)
 ### flexbox-lessons
 
 ### grid-lessons
