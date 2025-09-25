@@ -24,6 +24,7 @@
 - [inspect-css](https://appbrewery.github.io/css-inspection/)
 - [css-box-model](https://github.com/devliwa/css-box-model)
 - [motivation-meme-project](https://github.com/devliwa/motivation-meme-project)
+- [css-cascade](https://github.com/devliwa/css-cascade)
 ### flexbox-lessons
 
 ### grid-lessons
