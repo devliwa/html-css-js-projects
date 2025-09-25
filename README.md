@@ -25,6 +25,7 @@
 - [css-box-model](https://github.com/devliwa/css-box-model)
 - [motivation-meme-project](https://github.com/devliwa/motivation-meme-project)
 - [css-cascade](https://github.com/devliwa/css-cascade)
+- [combining-selectors](https://github.com/devliwa/combining-selectors)
 ### flexbox-lessons
 
 ### grid-lessons
