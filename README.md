@@ -17,6 +17,7 @@
 
 ### css-lessons
 - [adding-css](https://github.com/devliwa/adding-css)
+- [css-selectors](https://github.com/devliwa/css-selectors)
 ### flexbox-lessons
 
 ### grid-lessons
