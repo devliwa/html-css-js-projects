@@ -26,6 +26,7 @@
 - [motivation-meme-project](https://github.com/devliwa/motivation-meme-project)
 - [css-cascade](https://github.com/devliwa/css-cascade)
 - [combining-selectors](https://github.com/devliwa/combining-selectors)
+- [css-positioning](https://github.com/devliwa/css-positioning)
 ### flexbox-lessons
 
 ### grid-lessons
