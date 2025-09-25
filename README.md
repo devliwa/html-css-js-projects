@@ -11,6 +11,7 @@
 - [image-elements](https://github.com/devliwa/image-elements)
 - [birthday-invite-project](https://github.com/devliwa/birthday-invite-project)
 - [file-paths](https://github.com/devliwa/file-paths)
+- [web-pages](https://github.com/devliwa/web-pages)
 
 ### capstone-project-1-online-resume
 
