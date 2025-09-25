@@ -9,7 +9,8 @@
 - [nesting-and-indentation](https://github.com/devliwa/nesting-and-indentation)
 - [anchor-elements](https://github.com/devliwa/anchor-elements)
 - [image-elements](https://github.com/devliwa/image-elements)
-- [birthday-invite-project](https://github.com/devliwa/birthday-invite-project) 
+- [birthday-invite-project](https://github.com/devliwa/birthday-invite-project)
+- [file-paths](https://github.com/devliwa/file-paths)
 
 ### capstone-project-1-online-resume
 
