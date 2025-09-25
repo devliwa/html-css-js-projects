@@ -2,6 +2,7 @@
 
 ### html-lessons
 - [heading-element](https://github.com/devliwa/heading-element)
+- [paragraph-element](https://github.com/devliwa/paragraph-element)
 
 ### capstone-project-1-online-resume
 
