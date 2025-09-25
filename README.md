@@ -22,7 +22,7 @@
 - [css-colors](https://github.com/devliwa/css-colors)
 - [font-properties](https://github.com/devliwa/font-properties)
 - [inspect-css](https://appbrewery.github.io/css-inspection/)
-- 
+- [css-box-model](https://github.com/devliwa/css-box-model)
 ### flexbox-lessons
 
 ### grid-lessons
