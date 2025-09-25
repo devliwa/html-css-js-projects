@@ -20,6 +20,7 @@
 - [css-selectors](https://github.com/devliwa/css-selectors)
 - [color-vocab-project](https://github.com/devliwa/color-vocab-project)
 - [css-colors](https://github.com/devliwa/css-colors)
+- [font-properties](https://github.com/devliwa/font-properties)
 ### flexbox-lessons
 
 ### grid-lessons
