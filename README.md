@@ -25,6 +25,6 @@
 
 ### javascript-lessons 
 - [javascript-basic-projects](https://github.com/devliwa/javascript-basic-projects)
-- [Boss Level Challenge 1 - The Dicee Game]()
-- [Boss Level Challenge 2 - The Dicee Game]()
+- [level-challenge-1-dicee-game]()
+- [level-challenge-2-dicee-game]()
   
