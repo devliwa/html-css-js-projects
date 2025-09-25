@@ -27,6 +27,7 @@
 - [css-cascade](https://github.com/devliwa/css-cascade)
 - [combining-selectors](https://github.com/devliwa/combining-selectors)
 - [css-positioning](https://github.com/devliwa/css-positioning)
+- [css-flag-project](https://github.com/devliwa/css-flag-project)
 ### flexbox-lessons
 
 ### grid-lessons
