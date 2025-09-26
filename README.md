@@ -34,6 +34,7 @@
 - [media-query](https://github.com/devliwa/media-query)
 - [web-design-agency-project](https://github.com/devliwa/web-design-agency-project)
 ### flexbox-lessons
+- [display-flex](https://github.com/devliwa/display-flex)
 
 ### grid-lessons
 
