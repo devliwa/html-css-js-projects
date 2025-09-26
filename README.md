@@ -13,8 +13,6 @@
 - [file-paths](https://github.com/devliwa/file-paths)
 - [web-pages](https://github.com/devliwa/web-pages)
 
-### capstone-project-1-online-resume
-
 ### css-lessons
 - [adding-css](https://github.com/devliwa/adding-css)
 - [css-selectors](https://github.com/devliwa/css-selectors)
@@ -49,10 +47,8 @@
 - [bootstrap-components](https://github.com/devliwa/bootstrap-components)
 - [startup-project](https://github.com/devliwa/startup-project)
 
-### capstone-project-2-personal-site
-
 ### javascript-lessons 
 - [javascript-basic-projects](https://github.com/devliwa/javascript-basic-projects)
-- [coin-flip-simulator]()
+- [coin-flip-simulator](https://github.com/devliwa/coin-flip-simulator)
 
   
