@@ -29,6 +29,7 @@
 - [css-positioning](https://github.com/devliwa/css-positioning)
 - [css-flag-project](https://github.com/devliwa/css-flag-project)
 - [css-display](https://github.com/devliwa/css-display)
+- [css-float](https://github.com/devliwa/css-float)
 ### flexbox-lessons
 
 ### grid-lessons
