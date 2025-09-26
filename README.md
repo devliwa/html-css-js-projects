@@ -47,6 +47,7 @@
 ### bootstrap-lessons 
 - [bootstrap-intro](https://github.com/devliwa/bootstrap-intro)
 - [bootstrap-components](https://github.com/devliwa/bootstrap-components)
+- [startup-project](https://github.com/devliwa/startup-project)
 
 ### capstone-project-2-personal-site
 
