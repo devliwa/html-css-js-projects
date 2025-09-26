@@ -32,6 +32,7 @@
 - [css-float](https://github.com/devliwa/css-float)
 - [responsiveness](https://github.com/devliwa/responsiveness)
 - [media-query](https://github.com/devliwa/media-query)
+- [web-design-agency-project](https://github.com/devliwa/web-design-agency-project)
 ### flexbox-lessons
 
 ### grid-lessons
