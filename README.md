@@ -43,6 +43,7 @@
 - [display-grid](https://github.com/devliwa/display-grid)
 - [grid-sizing](https://github.com/devliwa/grid-sizing)
 - [grid-placement](https://github.com/devliwa/grid-placement)
+- [mondrian-project](https://github.com/devliwa/mondrian-project)
 ### bootstrap-lessons 
 
 ### capstone-project-2-personal-site
