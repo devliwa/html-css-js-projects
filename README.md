@@ -30,7 +30,8 @@
 - [css-flag-project](https://github.com/devliwa/css-flag-project)
 - [css-display](https://github.com/devliwa/css-display)
 - [css-float](https://github.com/devliwa/css-float)
-- [responsiveness](https://github.com/devliwa/responsiveness) 
+- [responsiveness](https://github.com/devliwa/responsiveness)
+- [media-query](https://github.com/devliwa/media-query)
 ### flexbox-lessons
 
 ### grid-lessons
