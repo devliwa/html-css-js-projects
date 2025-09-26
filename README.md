@@ -41,6 +41,7 @@
 
 ### grid-lessons
 - [display-grid](https://github.com/devliwa/display-grid)
+- [grid-sizing](https://github.com/devliwa/grid-sizing)
 
 ### bootstrap-lessons 
 
