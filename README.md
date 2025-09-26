@@ -45,6 +45,7 @@
 - [grid-placement](https://github.com/devliwa/grid-placement)
 - [mondrian-project](https://github.com/devliwa/mondrian-project)
 ### bootstrap-lessons 
+- [bootstrap-intro](https://github.com/devliwa/bootstrap-intro)
 
 ### capstone-project-2-personal-site
 
