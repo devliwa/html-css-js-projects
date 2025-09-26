@@ -36,6 +36,7 @@
 ### flexbox-lessons
 - [display-flex](https://github.com/devliwa/display-flex)
 - [flex-direction](https://github.com/devliwa/flex-direction)
+- [flexbox-layout-guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### grid-lessons
 
