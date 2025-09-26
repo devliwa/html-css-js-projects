@@ -42,7 +42,7 @@
 ### grid-lessons
 - [display-grid](https://github.com/devliwa/display-grid)
 - [grid-sizing](https://github.com/devliwa/grid-sizing)
-
+- [grid-placement](https://github.com/devliwa/grid-placement)
 ### bootstrap-lessons 
 
 ### capstone-project-2-personal-site
