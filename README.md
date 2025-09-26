@@ -40,7 +40,7 @@
 - [flexbox-pricing-table-project](https://github.com/devliwa/flexbox-pricing-table-project)
 
 ### grid-lessons
--[display-grid](https://github.com/devliwa/display-grid)
+- [display-grid](https://github.com/devliwa/display-grid)
 
 ### bootstrap-lessons 
 
