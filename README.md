@@ -46,6 +46,7 @@
 - [mondrian-project](https://github.com/devliwa/mondrian-project)
 ### bootstrap-lessons 
 - [bootstrap-intro](https://github.com/devliwa/bootstrap-intro)
+- [bootstrap-components](https://github.com/devliwa/bootstrap-components)
 
 ### capstone-project-2-personal-site
 
