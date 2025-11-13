@@ -1,4 +1,4 @@
-# html-css-js-projects
+# html-css-js-lessons
 
 ### html-lessons
 - [heading-element](https://github.com/devliwa/heading-element)
